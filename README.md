@@ -1,4 +1,4 @@
-# Task  semana 1 Formularios en Angular
+# Task 2 semana 16 / Formularios en Angular
 
 visitar link del proyecto https://task2semana16forms.vercel.app/
 
